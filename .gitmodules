@@ -1,3 +1,6 @@
 [submodule "correlation-coefficient"]
 	path = correlation-coefficient
 	url = https://github.com/Content-Interactives/correlation-coefficient
+[submodule "triangle-centers-explorer"]
+	path = triangle-centers-explorer
+	url = https://github.com/Content-Interactives/triangle-centers-explorer
