@@ -1,0 +1,3 @@
+[submodule "correlation-coefficient"]
+	path = correlation-coefficient
+	url = https://github.com/Content-Interactives/correlation-coefficient
